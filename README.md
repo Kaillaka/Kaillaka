@@ -14,16 +14,24 @@
 
 ## 🌸 À propos de moi
 
-Salut ! Je suis **Kaillaka**, un développeur qui adore créer des trucs mignons et fonctionnels ~ ✨
+Salut ! Je suis **Kaillaka**, un développeur low-level qui adore explorer le kernel et créer des tools ~ ✨
 
-```javascript
-const kaillaka = {
-  pronouns: "il/lui",
-  vibe: "✨ kawaii & coding ✨",
-  mood: "toujours prêt à apprendre",
-  interests: ["code", "design", "open source"],
-  currentlyLearning: "de nouvelles technologies chaque jour !",
-  funFact: "je code avec des couleurs pastel 💕"
+Entre reverse engineering et kernel mode, je m'amuse avec du code qui touche le hardware 💕
+
+```cpp
+class Kaillaka {
+public:
+    std::string vibe = "✨ kawaii & low-level ✨";
+    std::string mood = "toujours en ring 0 💕";
+    std::vector<std::string> interests = {
+        "kernel development", 
+        "user-mode hooks", 
+        "reverse engineering",
+        "game hacking"
+    };
+    std::string funFact = "je debug en pastel 💖";
+    
+    void code() { /* magic happens here ✨ */ }
 };
 ```
 
@@ -31,14 +39,23 @@ const kaillaka = {
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Assembly](https://img.shields.io/badge/-Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-1C1C1C?style=flat-square&logo=&logoColor=white)
+![x64dbg](https://img.shields.io/badge/-x64dbg-FF1493?style=flat-square&logo=&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 
 </div>
+
+### 💖 Spécialités
+
+- 🔮 **Kernel Mode Development** - Drivers & Ring 0 magic
+- 🎀 **User Mode Hooks** - DLL injection, detours & trampolines
+- 🌸 **Reverse Engineering** - IDA, x64dbg & Ghidra
+- ✨ **Game Hacking** - Memory manipulation & external/internal cheats
+- 💕 **Windows Internals** - WinAPI, NT API & undocumented features
 
 ## 📊 Statistiques GitHub
 
@@ -50,9 +67,10 @@ const kaillaka = {
   
 </div>
 
-## 🎀 Mes projets favoris
+## 🎀 Mes projets
 
-Découvre mes petites créations sur mon profil ! Chaque projet est fait avec amour 💕
+Explore mes repos pour découvrir des projets de recherche en sécurité et développement low-level ! 
+
 
 ## 🌈 Let's connect!
 
